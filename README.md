@@ -16,22 +16,20 @@ nomes em _italico_
 
 _os **dois** juntos_
 
-# Modulos:
+## Modulos:
 
 - Git
 - Github
 - Funções
 - Melhores praticas
 
-# Modulos 2
+## Modulos 2
 
-1. A 1. a 2. b
+1. Item principal um da lista ordenada.
 
-2. B
-
-3. C
-
-4. D
+2. Item principal dois da lista ordenada.
+3. Item principal tres da lista ordenada.
+4. Item principal quatro da lista ordenada.
 
 ## colocando imagens
 
@@ -40,3 +38,7 @@ _os **dois** juntos_
 ### inserindo link mesmo da imagem sem a exclamação
 
 [link google](https://www.google.com/)
+
+> Blockquote serve para destacar alguma area.
+>
+> Blockquote vazio pila linha
