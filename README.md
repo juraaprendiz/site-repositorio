@@ -1,10 +1,16 @@
 ![ligo do git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
+[Bem vindo](#bem-vindo-ao-projeto-de-git-e-gihub) |
+[Modulos](#modulos) |
+[Colocando-imagens](#colocando-imagens) |
+[Inserindo-codigos](#inserindo-codigos) |
+[Inserindo-tabela](#inserindo-tabela) |
+
 # Bem vindo ao projeto de **Git** e **Gihub**.
 
 Será ensinado as funcionalidades de _git_ e _github_
 
-# modulos:
+# Modulos:
 
 _Aprendendo **Git**, aprendendo **Gihub**,ferramentas diversas_
 
@@ -36,7 +42,7 @@ _os **dois** juntos_
 3. Item principal tres da lista ordenada.
 4. Item principal quatro da lista ordenada.
 
-## colocando imagens
+## Colocando imagens
 
 ![descrição](url da imagem)
 
