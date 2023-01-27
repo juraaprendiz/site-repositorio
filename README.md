@@ -41,4 +41,33 @@ _os **dois** juntos_
 
 > Blockquote serve para destacar alguma area.
 >
-> Blockquote vazio pila linha
+> Blockquote vazio pula linha
+
+**Inserindo codigos:**
+
+```
+npm start
+```
+
+**Exemplo de javascript:**
+
+```js
+function nome() {
+  return console.log(nome);
+}
+```
+
+**Exemplo de html:**
+
+```html
+<h1>Titulo do Curso</h1>
+<span>Aprendendo Git</span>
+```
+
+**Exemplo de css:**
+
+```css
+.titulo {
+  color: #424242;
+}
+```
