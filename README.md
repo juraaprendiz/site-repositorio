@@ -10,9 +10,9 @@ _Aprendendo **Git**, aprendendo **Gihub**,ferramentas diversas_
 
 **Ultimos updates - (tasklist)**
 
-- [x]Site responsivo
-- [ ]Login Facebook
-- [x]Pagina contatos
+- [x] Site responsivo.
+- [ ] Login Facebook.
+- [x] Pagina contatos.
 
 ### resumo:
 
