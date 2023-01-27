@@ -80,9 +80,10 @@ function nome() {
 
 **Inserindo tabela:**
 
-Propriedade | Descrição
-nome | nome do usuario
-campo | definir **tamanho** do campo
-cor | cor de fundo
-onClick | chama função de _clicar_
-email | telefone usuario
+| Propriedade | Descrição                    |
+| ----------- | ---------------------------- |
+| nome        | nome do usuario              |
+| campo       | definir **tamanho** do campo |
+| cor         | cor de fundo                 |
+| onClick     | chama função de _clicar_     |
+| email       | telefone usuario             |
