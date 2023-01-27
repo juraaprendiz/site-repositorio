@@ -8,6 +8,11 @@ Será ensinado as funcionalidades de _git_ e _github_
 
 _Aprendendo **Git**, aprendendo **Gihub**,ferramentas diversas_
 
+**Ultimos updates - (tasklist)**
+[x]Site responsivo
+[]Login Facebook
+[x]Pagina contatos
+
 ### resumo:
 
 nomes em **negrito**
