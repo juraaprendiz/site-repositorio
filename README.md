@@ -4,7 +4,7 @@
 
 Será ensinado as funcionalidades de _git_ e _github_
 
-## Segundo modulo:
+# modulos:
 
 _Aprendendo **Git**, aprendendo **Gihub**,ferramentas diversas_
 
@@ -22,17 +22,16 @@ nomes em _italico_
 
 _os **dois** juntos_
 
-## Modulos:
+### Modulos 1:
 
 - Git
 - Github
 - Funções
 - Melhores praticas
 
-## Modulos 2
+### Modulos 2
 
 1. Item principal um da lista ordenada.
-
 2. Item principal dois da lista ordenada.
 3. Item principal tres da lista ordenada.
 4. Item principal quatro da lista ordenada.
@@ -49,7 +48,7 @@ _os **dois** juntos_
 >
 > Blockquote vazio pula linha
 
-**Inserindo codigos:**
+# Inserindo codigos:
 
 ```
 npm start
@@ -78,12 +77,12 @@ function nome() {
 }
 ```
 
-**Inserindo tabela:**
+# Inserindo tabela:
 
 | Propriedade | Descrição                    |
 | ----------- | ---------------------------- |
 | nome        | nome do usuario              |
 | campo       | definir **tamanho** do campo |
 | cor         | cor de fundo                 |
-| onClick     | chama função de _clicar_     |
+| onClick     | chama função de **_clicar_** |
 | email       | telefone usuario             |
